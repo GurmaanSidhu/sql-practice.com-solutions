@@ -1,3 +1,3 @@
--- Update the patients table for the allergies column. If the patient's allergies is null then replace it with 'NKA'
+-- Show first name and last name concatinated into one column to show their full name.
 
-UPDATE patients set	allergies = 'NKA' where allergies IS null;
+select concat(first_name, ' ', last_name) as full_name from patients
