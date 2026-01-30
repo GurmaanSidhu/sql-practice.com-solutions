@@ -38,9 +38,11 @@ The schema follows the hospital-style database used by **sql-practice.com**, inc
 ## How to Run
 - Run these queries on **[sql-practice.com](https://www.sql-practice.com/)**  
 
-OR (on local if you want to try them on your local computer)
+**OR** (if you want to try them on your local computer)
 1. Create a database in your preferred SQL engine
 2. Load the schema and sample data
 3. Execute any solution file using the solutions
+
+---
 
   > Thank you for taking the time to review this repository.
